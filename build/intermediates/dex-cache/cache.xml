@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mayank/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f914c08c34843aef0b4fd661eb56a0e6f7f9942">
+        <dex dex="/home/mayank/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9de7511b7978651627c2869306eb4f086c42a6f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/mayank/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc0648d13dddfdc297a0ea9bcdfd7d9e7a13852e/classes.dex" />
+    </item>
+
+</items>
